@@ -1,4 +1,4 @@
-package com.example.myquiz;
+package com.example.Trivia;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
@@ -6,10 +6,7 @@ import android.support.v7.widget.Toolbar;
 import android.view.MenuItem;
 import android.widget.GridView;
 
-import java.util.ArrayList;
-import java.util.List;
-
-import static com.example.myquiz.SplashActivity.catList;
+import static com.example.Trivia.SplashActivity.catList;
 
 public class CategoryActivity extends AppCompatActivity {
 

@@ -1,4 +1,4 @@
-package com.example.myquiz;
+package com.example.Trivia;
 
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;

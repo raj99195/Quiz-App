@@ -1,4 +1,4 @@
-package com.example.myquiz;
+package com.example.Trivia;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

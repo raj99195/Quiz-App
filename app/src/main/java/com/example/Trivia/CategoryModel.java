@@ -1,4 +1,4 @@
-package com.example.myquiz;
+package com.example.Trivia;
 
 public class CategoryModel {
 
